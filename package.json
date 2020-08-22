@@ -1,5 +1,5 @@
 {
-  "name": "atom-wmacros",
+  "name": "atom-macros",
   "main": "./lib/macros",
   "version": "0.5.2.1",
   "description": "Quickly define commands to extend atom dynamically",

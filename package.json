@@ -1,15 +1,15 @@
 {
-  "name": "atom-macros",
+  "name": "atom-wmacros",
   "main": "./lib/macros",
-  "version": "0.5.2",
+  "version": "0.5.2.1",
   "description": "Quickly define commands to extend atom dynamically",
-  "repository": "https://github.com/pbihler/atom-macros",
+  "repository": "https://github.com/wake/atom-macros",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "coffee-script": "^1.8",
+    "coffeescript": "^1.8",
     "eval": "^0.1.0",
     "pathwatcher": "^8.1.0",
     "underscore-plus": "^1.6.6"
